@@ -5,7 +5,7 @@ using namespace std;
 int main()
 {
     int n, m, days;
-
+cout << "refactoring";
     cin >> n;
     cin >> m;
 

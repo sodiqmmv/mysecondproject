@@ -11,7 +11,7 @@ cout << "refactoring";
 
     days = (n+m-1)/n;
 
-    cout << "The car travels " << days << " days." << endl;
+    cout << "The car travel  " << days << " days." << endl;
 
     main();
 }
